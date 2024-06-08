@@ -1,2 +1,0 @@
-# whitney.io
-whitney.io
